@@ -42,7 +42,7 @@ Build a responsive user profile card that includes:
 ## 🔗 Live Project
 
 - 💡 **Solution Repository**: [GitHub Repo](https://github.com/CodeZeniYT/Socail-Profile-Link)
-- 🌐 **Live Demo**: [View Live](https://Socail-Profile-Link.github.io)
+- 🌐 **Live Demo**: [View Live]([Demo](https://codezeniyt.github.io/Socail-Profile-Link/))
 
 ---
 
