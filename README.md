@@ -31,7 +31,7 @@ Build a user profile card that includes:
 
 | 📱 Mobile View | 💻 Desktop View |
 |----------------|-----------------|
-| ![Mobile View](./screenshot-mobile.jpg) | ![Desktop View](./screenshot-desktop.jpg) |
+| ![Mobile View](design/mobile-design.jpg) | ![Desktop View](design/desktop-design.jpg) |
 
 > *Screenshots taken directly from the live build.*
 
@@ -56,15 +56,27 @@ This project was built using:
 > No frameworks, just clean code and creativity!
 
 ---
+📡 Contact
 
-## 💡 What I Learned
+    🎬 YouTube: @CodeZeni(https://youtube.com/@CodeZeni)
 
-This challenge helped reinforce foundational frontend concepts:
+    💬 Discord: Join the Community(https://discord.com/invite/pxgnypbp)
 
-```html
-<!-- Semantically structured HTML -->
-<section class="card">
-  <img src="avatar.png" alt="Profile Picture" />
-  <h1>Mayank Kumar</h1>
-  <p>Frontend Developer</p>
-</section>
+🧠 Meta
+
+    SEO Keywords: HTML profile card, CSS social links profile, Frontend Mentor challenge, responsive card UI, GitHub live site
+
+    Topic: Web Development, UI Design, Beginner Project
+
+    License: MIT
+
+
+    ### ✅ Final Checklist for You:
+- Replace all placeholder URLs like `your-live-site-url.com` or `yourusername`.
+- Make sure your screenshot files are named and located as:
+  - `preview.jpg`
+  - `screenshot-mobile.jpg`
+  - `screenshot-desktop.jpg`
+- Upload this to your GitHub repo as `README.md`.
+
+Would you like help generating or optimizing the screenshots too for mobile and desktop display?
