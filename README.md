@@ -3,7 +3,7 @@
 ![Design Preview](./preview.jpg)
 
 Welcome! 👋  
-This is my solution to the **Social Links Profile Challenge** on [Frontend Mentor](https://www.frontendmentor.io). It’s a sleek, responsive profile card that includes social links and interactive hover effects — a perfect mini-project to polish up your HTML & CSS skills.
+This is a clean and responsive solution to the **Social Links Profile Challenge** from [Frontend Mentor](https://www.frontendmentor.io). It features a sleek profile card with social links, hover effects, and a mobile-first layout — perfect for sharpening HTML & CSS skills.
 
 ---
 
@@ -11,72 +11,79 @@ This is my solution to the **Social Links Profile Challenge** on [Frontend Mento
 
 ### 🎯 The Challenge
 
-Build a user profile card that includes:
+Build a responsive user profile card that includes:
 
-- A personal avatar, name, location, and brief description
-- Social media links with hover and focus states
-- Fully responsive design for mobile and desktop
+- 👤 Avatar, name, location, and a short bio
+- 🔗 Interactive social media links with hover/focus states
+- 📱 Fully responsive layout for both mobile and desktop
 
-### 🧩 What You’ll Learn
+---
+
+## 🧩 What You’ll Learn
 
 - Semantic HTML structuring
-- CSS layout with Flexbox
-- Button & link hover states
+- CSS Flexbox layout
+- Styling interactive states (hover, focus)
 - Mobile-first responsive design
-- Consistent design based on mockups
+- Design implementation from static mockups
 
 ---
 
 ## 🖼️ Screenshots
 
 | 📱 Mobile View | 💻 Desktop View |
-|----------------|-----------------|
+|:--------------:|:---------------:|
 | ![Mobile View](design/mobile-design.jpg) | ![Desktop View](design/desktop-design.jpg) |
 
-> *Screenshots taken directly from the live build.*
+> Screenshots captured from the live version of the project.
 
 ---
 
 ## 🔗 Live Project
 
-- 💡 **Solution**: [GitHub Repo](https://github.com/yourusername/social-links-profile)
-- 🌐 **Live Site**: [View Live](https://your-live-url.com)
+- 💡 **Solution Repository**: [GitHub Repo](https://github.com/yourusername/social-links-profile)
+- 🌐 **Live Demo**: [View Live](https://your-live-url.com)
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-This project was built using:
+Built with:
 
 - ✅ HTML5
-- 🎨 CSS3 with custom properties
-- 📱 Responsive design (Mobile-first)
-- ✨ Hover & focus animations
+- 🎨 CSS3 using custom properties
+- 📐 Flexbox for layout
+- ✨ Smooth hover & focus animations
+- 📱 Responsive, mobile-first approach
 
-> No frameworks, just clean code and creativity!
+> No frameworks, just pure HTML & CSS — clean, simple, and effective.
 
 ---
-📡 Contact
 
-    🎬 YouTube: @CodeZeni(https://youtube.com/@CodeZeni)
+## 📡 Connect with Me
 
-    💬 Discord: Join the Community(https://discord.com/invite/pxgnypbp)
+- 🎬 **YouTube**: [@CodeZeni](https://youtube.com/@CodeZeni)
+- 💬 **Discord**: [Join the Community](https://discord.com/invite/pxgnypbp)
 
-🧠 Meta
+---
 
-    SEO Keywords: HTML profile card, CSS social links profile, Frontend Mentor challenge, responsive card UI, GitHub live site
+## 🧠 Meta
 
-    Topic: Web Development, UI Design, Beginner Project
+- **SEO Keywords**: HTML profile card, CSS social links, Frontend Mentor, responsive UI, GitHub project
+- **Topics**: Web Development, CSS, Responsive Design, UI Components
+- **License**: MIT
 
-    License: MIT
+---
 
+## ✅ Final Setup Checklist
 
-    ### ✅ Final Checklist for You:
-- Replace all placeholder URLs like `your-live-site-url.com` or `yourusername`.
-- Make sure your screenshot files are named and located as:
+- [ ] Replace `yourusername` and `your-live-url.com` with your GitHub username and live site URL.
+- [ ] Add the required images:
   - `preview.jpg`
   - `screenshot-mobile.jpg`
   - `screenshot-desktop.jpg`
-- Upload this to your GitHub repo as `README.md`.
+- [ ] Save this file as `README.md` in your GitHub repository root.
 
-Would you like help generating or optimizing the screenshots too for mobile and desktop display?
+---
+
+> Built with 💻 by a passionate web developer. Feel free to explore, learn, and improve!
