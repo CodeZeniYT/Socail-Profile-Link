@@ -41,8 +41,8 @@ Build a responsive user profile card that includes:
 
 ## 🔗 Live Project
 
-- 💡 **Solution Repository**: [GitHub Repo](https://github.com/yourusername/social-links-profile)
-- 🌐 **Live Demo**: [View Live](https://your-live-url.com)
+- 💡 **Solution Repository**: [GitHub Repo](https://github.com/CodeZeniYT/Socail-Profile-Link)
+- 🌐 **Live Demo**: [View Live](https://Socail-Profile-Link.github.io)
 
 ---
 
